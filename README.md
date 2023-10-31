@@ -20,7 +20,7 @@ We suggest our students use [GitPod](https://www.gitpod.io/) to work on this pro
 
 ### Starting The Project (in GitPod)
 
-1. In a terminal pane/tab, run `bin/serve` to start the server. It should mention _"Listening on port 3000"_ among other things
+1. In a terminal pane/tab, run to start the server. It should mention _"Listening on port 3000"_ among other things
 2. In the top menu, Click _View_, then _Open Ports_. You should see port 3000 with a blue light next to it (to indicate that it is running our project on that port)
 3. _Optional:_ If it shows the button _Expose_ for that port, click that button
 4. You'll see _Open Preview_ and _Open Browser_, either of which will allow you to open your project in a new window or tab or preview pane. Go ahead and click on your preference (or try both at first to see which one you prefer).
