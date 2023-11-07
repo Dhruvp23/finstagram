@@ -1,0 +1,33 @@
+header {
+    background-color: #0a0d0e;
+    color: #feffff;
+  }
+
+  body {
+    background-color: whitesmoke;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  main {
+    background-color: rgb(207, 222, 243);
+    padding: 16px;
+  }
+
+  .finstagram-post .user-info img {
+    border-radius: 50%;
+  }
+
+  .my-class {
+    color: red;
+  }
+
+  .my-class:hover {
+    color: red; 
+  }
+
+  a.photo{
+    transition: padding 0.5s;
+  }
+  a.photo:hover{
+    padding: 10px; border-style:double; border-color: black;
+  }
